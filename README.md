@@ -16,4 +16,6 @@ the ut scripts.
 
 Define the LIBDIR constant as a full path to the lib directory for testing.
 
+Added ShellCommandHandler for running shell commands on web server and returning output.
+
 -C
