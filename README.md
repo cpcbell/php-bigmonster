@@ -18,4 +18,6 @@ Define the LIBDIR constant as a full path to the lib directory for testing.
 
 Added ShellCommandHandler for running shell commands on web server and returning output.
 
+Added ConstantLoader which is a child of FileDevice and loads/defines PHP constant variables from a config file
+
 -C
