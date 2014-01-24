@@ -22,4 +22,6 @@ Added ConstantLoader which is a child of FileDevice and loads/defines PHP consta
 
 Adding StringClass and JSONHandler class
 
+Adding HTMLString, HTMLElement and JSONHTML classes
+
 -C
