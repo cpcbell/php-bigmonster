@@ -20,4 +20,6 @@ Added ShellCommandHandler for running shell commands on web server and returning
 
 Added ConstantLoader which is a child of FileDevice and loads/defines PHP constant variables from a config file
 
+Adding StringClass and JSONHandler class
+
 -C
